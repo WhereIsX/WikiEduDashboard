@@ -193,7 +193,8 @@ tr:
     see_more: Daha fazla gör
     show_cumulative_changes: Birikmiş Değişiklikleri Göster
     show_current_version: Mevcut Sürümü Göster
-    show_current_version_with_authorship_highlighting: Yazar Vurgulamalı Güncel Versiyon
+    show_current_version_with_authorship_highlighting: Yazar Vurgulamalı w/ Güncel
+      Sürüm
     title: Başlık
     tracked: İzlenen
     tracked_doc: Yalnızca izlenen makaleler, bu programın istatistiklerine katkıda
@@ -866,6 +867,15 @@ tr:
       current_stage: Geçerli Adım
       relevant_links: İlgili Bağlantılar
     assigned_articles: Atanmış Makaleler
+    bad_work:
+      learn_more: Öğrenci çalışması maddeyi daha da kötüleştirdiyse, maddeyi kendiniz
+        düzenlemenizi öneririz. Aksi takdirde, sorunları daha sonra çözebilmemiz için
+        bize bildirin.
+      learn_more_button: Daha Fazla Bilgi
+      submit_issue: Bu madde ile ilgili önemli sorunlar nelerdir?
+      submit_issue_placeholder: Ne kadar fazla uzman perspektifi ve detayı olursa
+        o kadar iyidir.
+      thank_you: Teşekkür ederim! Başka sorularınız varsa Viki Uzmanınıza başvurun.
     exercises_and_trainings: '%{prefix} Egzersizler ve Eğitimler'
     no_assignments: Şu anda bu öğrencinin atanmış makalesi yok. Yukarıdaki düğmeleri
       kullanarak makale atayabilirsiniz.
@@ -1216,6 +1226,9 @@ tr:
       other: bir=%{completed_count}/%{count} eğitim modülü tamamlandı
     training_module_name: Eğitim modülü
     training_module_status: Durum
+    training_module_time:
+      minutes: Dakika
+      seconds: Saniye
     user_training_status: Eğitim Durumu
     user_no_training_status: Bu kullanıcı herhangi bir eğitim modülünü tamamlamadı.
     up_to_date_with_training: eğitim ile güncel
@@ -1391,6 +1404,8 @@ tr:
   training_status:
     completed: Tamamlandı
     continue: Devam et
+    completed_at: 'Tamamlanma tarihi:'
+    completion_time: Tamamlanma süresi
     view: Görüntüle
     started: Başladı
     not_started: Başlatılmadı

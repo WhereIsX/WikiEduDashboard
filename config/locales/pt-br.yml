@@ -876,6 +876,16 @@ pt-br:
       current_stage: Estágio atual
       relevant_links: Links relevantes
     assigned_articles: Artigos atribuídos
+    bad_work:
+      learn_more: Se o trabalho do aluno piorou o artigo, recomendamos que você o
+        edite. Caso contrário, informe-nos sobre os problemas para que possamos corrigi-los
+        mais tarde.
+      learn_more_button: Saiba mais
+      submit_issue: Quais são os problemas significativos com este artigo?
+      submit_issue_placeholder: Quanto mais perspectiva e detalhes você puder fornecer,
+        melhor.
+      thank_you: Obrigado! Entre em contato com o seu especialista da Wiki se tiver
+        mais perguntas.
     exercises_and_trainings: '%{prefix} Exercícios e Treinamentos'
     no_assignments: Atualmente, este aluno não possui artigos atribuídos. Você pode
       atribuir um artigo usando os botões acima.
@@ -1233,6 +1243,9 @@ pt-br:
       other: '%{completed_count}/%{count} módulos de treinamento completados'
     training_module_name: Módulo de treinamento
     training_module_status: Status
+    training_module_time:
+      minutes: Min
+      seconds: Seg
     user_training_status: Status de treinamento
     user_no_training_status: Este usuário não concluiu nenhum módulo de treinamento.
     up_to_date_with_training: em dia com o treinamento
@@ -1242,6 +1255,7 @@ pt-br:
     username_placeholder: Nome de usuário
     useremail_placeholder: E-mail
     userpasscode_placeholder: Código de acesso
+    words_added: Palavras adicionadas<br>(article | usuário | rascunho)
     role:
       description: Função no curso
       visitor: Visitante
@@ -1409,6 +1423,8 @@ pt-br:
   training_status:
     completed: Completado
     continue: Continuar
+    completed_at: Concluído em
+    completion_time: Tempo de conclusão
     view: Ver
     started: Iniciado
     not_started: Não foi iniciado

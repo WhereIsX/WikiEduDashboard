@@ -134,7 +134,7 @@ ca:
     hide: Amaga
     history: (historial)
     label: Articles
-    loading: S'estan carregant els articles…
+    loading: S’estan carregant els articles…
     new: (nou)
     none: Aquest curs encara no ha editat cap article
     rating: Classe
@@ -969,6 +969,9 @@ ca:
       dins de les dates se'ls compta com a usuaris que estan al dia amb el seu entrenament.
     training_incomplete: Formació Incompleta
     training_module_status: Estat
+    training_module_time:
+      minutes: min
+      seconds: s
     up_to_date_with_training: esteu al dia amb la formació
     username: Nom d'usuari
     username_placeholder: Nom d'usuari
@@ -1104,7 +1107,7 @@ ca:
     more_results: Més resultats
     fetched_articles: S'han recuperat els articles
     filtered_articles: Articles filtrats
-    searching_articles: S'estan cercant els articles
+    searching_articles: S’estan cercant els articles
     subheading_message: Trobem un article de la Viquipèdia per treballar.
     article_finder: Buscador d'articles
     submit: Envia
@@ -1113,6 +1116,7 @@ ca:
     unassign_article_self: Desassigneu l'article
   training_status:
     completed: Completat
+    completion_time: Temps de compleció
     started: Iniciat
     not_started: No s'ha iniciat
     due: per %{due_date}

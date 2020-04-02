@@ -843,6 +843,12 @@ en:
       current_stage: Current Stage
       relevant_links: Relevant Links
     assigned_articles: Assigned Articles
+    bad_work:
+      learn_more: "If student work made the article worse, we encourage you to edit it yourself. Otherwise, let us know about the problems so that we can fix them later on."
+      learn_more_button: "Learn More"
+      submit_issue: "What are the significant problems with this article?"
+      submit_issue_placeholder: "The more expert perspective and detail you can provide, the better."
+      thank_you: "Thank you! Contact your Wiki Expert if you have additional questions."
     exercises_and_trainings: "%{prefix} Exercises & Trainings"
     no_assignments: "This student currently has no assigned articles. You can assign an article by using the buttons above."
     overview: "%{prefix} Overview"
@@ -1178,6 +1184,9 @@ en:
       other: "%{completed_count}/%{count} training modules completed"
     training_module_name: Training module
     training_module_status: Status
+    training_module_time:
+      minutes: Min
+      seconds: Sec
     user_training_status: Training Status
     user_no_training_status: This user has not completed any training modules.
     up_to_date_with_training: 'up-to-date with training'
@@ -1373,6 +1382,8 @@ en:
   training_status:
     completed: "Completed"
     continue: "Continue"
+    completed_at: "Completed at"
+    completion_time: "Completion time"
     view: "View"
     started: "Started"
     not_started: "Not started"
